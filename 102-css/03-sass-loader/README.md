@@ -5,7 +5,7 @@
 `Sat May 21 09:35:19 CST 2022` | -
 
 ```bash
-npm install sass-loader sass webpack --save-dev
+npm install sass-loader sass --save-dev
 ```
 
 ## Ref

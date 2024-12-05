@@ -7,6 +7,7 @@
 
 ```bash
 npm install --save-dev postcss-loader postcss
+npm install --save-dev autoprefixer
 ```
 
 
@@ -15,6 +16,6 @@ npm install --save-dev postcss-loader postcss
 
 ## Ref
 
-* [https://webpack.js.org/loaders/postcss-loader/](https://webpack.js.org/loaders/postcss-loader/)
-* [https://time.geekbang.org/course/detail/100028901-99020](https://time.geekbang.org/course/detail/100028901-99020)
+* <https://webpack.js.org/loaders/postcss-loader/>
+* <https://time.geekbang.org/course/detail/100028901-99020>
 * [13 分钟掌握 PostCSS](https://www.bilibili.com/video/BV1Pd4y1S7Mp/)

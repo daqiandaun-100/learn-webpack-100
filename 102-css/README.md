@@ -22,7 +22,8 @@
 ---|---|---|---
 [css-loader](./01-css-loader/) | Loads CSS file with resolved imports and returns CSS code
 [style-loader](./02-style-loader/) | Add exports of a module as style to DOM
-[postcss-loader](./postcss-loader/) | Loads and transforms a CSS/SSS file using PostCSS
+[sass-loader](./03-sass-loader/) | Loads and compiles a SASS/SCSS file
+[postcss-loader](./04-postcss-loader/) | Loads and transforms a CSS/SSS file using PostCSS
 
 
 ## Plugins
