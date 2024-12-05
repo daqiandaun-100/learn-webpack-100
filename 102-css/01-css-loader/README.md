@@ -10,4 +10,4 @@
 
 ## Ref
 
-* [https://webpack.js.org/loaders/css-loader/](https://webpack.js.org/loaders/css-loader/)
+* <https://webpack.js.org/loaders/css-loader/>

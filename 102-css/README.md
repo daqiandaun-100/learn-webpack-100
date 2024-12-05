@@ -20,8 +20,8 @@
 
 名称|说明|版本|备注
 ---|---|---|---
-[style-loader](https://webpack.js.org/loaders/style-loader) | Add exports of a module as style to DOM
-[css-loader](./css-loader/) | Loads CSS file with resolved imports and returns CSS code
+[css-loader](./01-css-loader/) | Loads CSS file with resolved imports and returns CSS code
+[style-loader](./02-style-loader/) | Add exports of a module as style to DOM
 [postcss-loader](./postcss-loader/) | Loads and transforms a CSS/SSS file using PostCSS
 
 
