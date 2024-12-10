@@ -4,11 +4,18 @@
 |:---:|:---:
 `Tue Dec 10 20:06:13 CST 2024` | `Sat May 21 09:34:58 CST 2022`
 
+## [883--day51_webpack打包各种资源-loader-插件_04_(理解)webpack中postcss-loader的](https://github.com/nanana-100/coderwhy/tree/main/s05/day51/0883)
+
+
+```bash
+npm install --save-dev postcss-preset-env
+# npm install --save-dev autoprefixer
+```
+
+---
 
 ```bash
 npm install --save-dev postcss-loader postcss
-npm install --save-dev postcss-preset-env 
-# npm install --save-dev autoprefixer
 ```
 
 
